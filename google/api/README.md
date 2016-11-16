@@ -144,6 +144,7 @@ documentation:
       A simple Google Example Library API.
       ```
 
+
 Note that directives in documentation like `suppress_warning` must
 appear on a their own line, otherwise they will not be
 recognized. YAML block literal markers like `>` do remove all
